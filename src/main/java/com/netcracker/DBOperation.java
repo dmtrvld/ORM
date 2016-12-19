@@ -2,9 +2,9 @@ package com.netcracker;
 
 import com.netcracker.dao.Session;
 import com.netcracker.dao.DAOFactory;
+import com.netcracker.exception.DaoException;
 import com.netcracker.model.Book;
 import com.netcracker.model.BookShelf;
-import exception.DaoException;
 
 import java.io.IOException;
 import java.util.List;

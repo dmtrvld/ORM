@@ -1,4 +1,4 @@
-package exception;
+package com.netcracker.exception;
 
 /**
  * Created by dimka on 19.12.2016.

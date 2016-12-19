@@ -1,80 +1,80 @@
-Dec 19, 2016 10:11:55 AM com.netcracker.DBOperation main
-INFO: 0, 0a, 10 : save
-Dec 19, 2016 10:11:55 AM com.netcracker.DBOperation main
-INFO: 1, 1a, 11 : save
-Dec 19, 2016 10:11:55 AM com.netcracker.DBOperation main
-INFO: 2, 2a, 12 : save
-Dec 19, 2016 10:11:55 AM com.netcracker.DBOperation main
-INFO: 3, 3a, 13 : save
-Dec 19, 2016 10:11:55 AM com.netcracker.DBOperation main
-INFO: 4, 4a, 14 : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 5, 5a, 15 : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 6, 6a, 16 : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 7, 7a, 17 : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 8, 8a, 18 : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 9, 9a, 19 : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 2, 2a, 12 : select
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 3, 3a, 13 : select
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 4, 4a, 14 : select
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 5, 5a, 15 : select
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 6, 6a, 16 : select
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 7, 7a, 17 : select
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 8, 8a, 18 : select
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 9, 9a, 19 : select
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 0, 0a, 10 : select
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
-INFO: 1, 1a, 11 : select
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:02 AM com.netcracker.DBOperation main
+INFO: id: 0, name: 0a, count: 10 : save
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 1, name: 1a, count: 11 : save
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 2, name: 2a, count: 12 : save
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 3, name: 3a, count: 13 : save
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 4, name: 4a, count: 14 : save
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 5, name: 5a, count: 15 : save
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 6, name: 6a, count: 16 : save
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 7, name: 7a, count: 17 : save
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 8, name: 8a, count: 18 : save
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 9, name: 9a, count: 19 : save
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 2, name: 2a, count: 12 : select
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 3, name: 3a, count: 13 : select
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 4, name: 4a, count: 14 : select
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 5, name: 5a, count: 15 : select
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 6, name: 6a, count: 16 : select
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 7, name: 7a, count: 17 : select
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 8, name: 8a, count: 18 : select
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 9, name: 9a, count: 19 : select
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 0, name: 0a, count: 10 : select
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
+INFO: id: 1, name: 1a, count: 11 : select
+Dec 19, 2016 10:25:03 AM com.netcracker.DBOperation main
 INFO: id: 0, name: 0b : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: 1, name: 1b : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: 2, name: 2b : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: 3, name: 3b : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: 4, name: 4b : save
-Dec 19, 2016 10:11:56 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: 5, name: 5b : save
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: 6, name: 6b : save
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: 7, name: 7b : save
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: 8, name: 8b : save
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: 9, name: 9b : save
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: null, name: 2b : select
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: null, name: 3b : select
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: null, name: 4b : select
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: null, name: 5b : select
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: null, name: 6b : select
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: null, name: 7b : select
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: null, name: 8b : select
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: null, name: 9b : select
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: null, name: 0b : select
-Dec 19, 2016 10:11:57 AM com.netcracker.DBOperation main
+Dec 19, 2016 10:25:04 AM com.netcracker.DBOperation main
 INFO: id: null, name: 1b : select

@@ -2,7 +2,7 @@ package com.netcracker.dao;
 
 import com.netcracker.DBOperation;
 import com.netcracker.dao.impl.SessionImpl;
-import exception.DaoException;
+import com.netcracker.exception.DaoException;
 import oracle.jdbc.pool.OracleDataSource;
 
 import javax.sql.DataSource;

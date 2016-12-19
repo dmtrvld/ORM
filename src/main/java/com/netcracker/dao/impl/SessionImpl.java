@@ -3,7 +3,7 @@ package com.netcracker.dao.impl;
 import com.netcracker.annotations.FieldName;
 import com.netcracker.annotations.TableName;
 import com.netcracker.dao.Session;
-import exception.DaoException;
+import com.netcracker.exception.DaoException;
 import oracle.jdbc.pool.OracleDataSource;
 
 import javax.sql.DataSource;
